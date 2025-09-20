@@ -35,8 +35,8 @@ Um aplicativo móvel de lista de tarefas desenvolvido com React Native e Expo, f
 ### Passos
 1. **Clone o repositório**:
    ```bash
-   git clone [https://github.com/seu-usuario/todo-app-react-native.git](https://github.com/duduslugee/projeto-android.git)
-   cd todo-app-react-native
+   git clone https://github.com/duduslugee/projeto-android.git
+   cd projeto-android
    ```
 
 2. **Instale as dependências**:
